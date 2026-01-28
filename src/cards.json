@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "subtitle": "1994 • Drama",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "subtitle": "1972 • Crime/Drama",
+    "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Godfather"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "subtitle": "2008 • Action/Crime",
+    "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Dark_Knight_(film)"
+  },
+  {
+    "id": 4,
+    "title": "Inception",
+    "subtitle": "2010 • Sci-Fi/Thriller",
+    "description": "A thief who steals corporate secrets through dream-sharing technology.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Inception"
+  },
+  {
+    "id": 5,
+    "title": "Fight Club",
+    "subtitle": "1999 • Drama",
+    "description": "An insomniac office worker and a soap maker form an underground fight club.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Fight_Club"
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "subtitle": "1994 • Drama/Romance",
+    "description": "The life journey of Forrest Gump, a man with a low IQ but good intentions.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Forrest_Gump"
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "subtitle": "1994 • Crime/Drama",
+    "description": "The lives of two mob hitmen, a boxer, and others intertwine in violence.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/82/Pulp_Fiction_cover.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Pulp_Fiction"
+  },
+  {
+    "id": 8,
+    "title": "Interstellar",
+    "subtitle": "2014 • Sci-Fi/Adventure",
+    "description": "A team travels through a wormhole in space in an attempt to save humanity.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Interstellar_(film)"
+  },
+  {
+    "id": 9,
+    "title": "The Matrix",
+    "subtitle": "1999 • Sci-Fi/Action",
+    "description": "A hacker discovers reality is a simulation and joins a rebellion.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Matrix"
+  },
+  {
+    "id": 10,
+    "title": "Gladiator",
+    "subtitle": "2000 • Action/Drama",
+    "description": "A former Roman General seeks revenge against the corrupt emperor.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)"
+  },
+  {
+    "id": 11,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "subtitle": "2001 • Fantasy/Adventure",
+    "description": "A meek Hobbit sets out on a journey to destroy a powerful ring.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/The_Fellowship_Of_The_Ring.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+  },
+  {
+    "id": 12,
+    "title": "The Lord of the Rings: The Two Towers",
+    "subtitle": "2002 • Fantasy/Adventure",
+    "description": "The fellowship is broken but continues the quest to defeat evil.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/The_Two_Towers.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers"
+  },
+  {
+    "id": 13,
+    "title": "The Lord of the Rings: The Return of the King",
+    "subtitle": "2003 • Fantasy/Adventure",
+    "description": "The final confrontation between the forces of good and evil.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/The_Return_of_the_King.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King"
+  },
+  {
+    "id": 14,
+    "title": "Avengers: Endgame",
+    "subtitle": "2019 • Action/Sci-Fi",
+    "description": "The Avengers assemble once more to undo Thanos’ actions.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+  },
+  {
+    "id": 15,
+    "title": "Avengers: Infinity War",
+    "subtitle": "2018 • Action/Sci-Fi",
+    "description": "The Avengers face their most powerful enemy yet: Thanos.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 16,
+    "title": "Titanic",
+    "subtitle": "1997 • Romance/Drama",
+    "description": "A love story unfolds aboard the ill-fated RMS Titanic.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Titanic_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Titanic_(1997_film)"
+  },
+  {
+    "id": 17,
+    "title": "Jurassic Park",
+    "subtitle": "1993 • Sci-Fi/Adventure",
+    "description": "Dinosaurs are brought back to life through genetic engineering.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Jurassic_Park"
+  },
+  {
+    "id": 18,
+    "title": "The Lion King",
+    "subtitle": "1994 • Animation/Drama",
+    "description": "A young lion prince must reclaim his throne.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Lion_King"
+  },
+  {
+    "id": 19,
+    "title": "The Silence of the Lambs",
+    "subtitle": "1991 • Crime/Thriller",
+    "description": "An FBI trainee seeks the help of a cannibalistic serial killer.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs"
+  },
+  {
+    "id": 20,
+    "title": "Saving Private Ryan",
+    "subtitle": "1998 • War/Drama",
+    "description": "A mission is launched to save a paratrooper behind enemy lines.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Saving_Private_Ryan"
+  },
+  {
+    "id": 21,
+    "title": "Braveheart",
+    "subtitle": "1995 • History/Drama",
+    "description": "A Scottish warrior leads a rebellion against tyranny.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Braveheart_imp.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Braveheart"
+  },
+  {
+    "id": 22,
+    "title": "The Prestige",
+    "subtitle": "2006 • Drama/Thriller",
+    "description": "Two magicians engage in a bitter rivalry.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Prestige_(film)"
+  },
+  {
+    "id": 23,
+    "title": "Whiplash",
+    "subtitle": "2014 • Drama/Music",
+    "description": "A young drummer pushes himself under a ruthless instructor.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Whiplash_(2014_film)"
+  },
+  {
+    "id": 24,
+    "title": "Joker",
+    "subtitle": "2019 • Crime/Drama",
+    "description": "A troubled comedian descends into madness.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Joker_(2019_film)"
+  },
+  {
+    "id": 25,
+    "title": "Parasite",
+    "subtitle": "2019 • Thriller/Drama",
+    "description": "A poor family schemes to infiltrate a wealthy household.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Parasite_(film)"
+  },
+  {
+    "id": 26,
+    "title": "Django Unchained",
+    "subtitle": "2012 • Western/Drama",
+    "description": "A freed slave sets out to rescue his wife.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Django_Unchained"
+  },
+  {
+    "id": 27,
+    "title": "The Wolf of Wall Street",
+    "subtitle": "2013 • Crime/Comedy",
+    "description": "The rise and fall of a stockbroker living a wild life.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Wolf_of_Wall_Street_%282013%29.png",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+  },
+  {
+    "id": 28,
+    "title": "Goodfellas",
+    "subtitle": "1990 • Crime/Drama",
+    "description": "The story of a mob associate’s rise and fall.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Goodfellas"
+  },
+  {
+    "id": 29,
+    "title": "Se7en",
+    "subtitle": "1995 • Crime/Thriller",
+    "description": "Two detectives hunt a serial killer using the seven deadly sins.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%281995_film%29_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Seven_(1995_film)"
+  },
+  {
+    "id": 30,
+    "title": "The Green Mile",
+    "subtitle": "1999 • Drama/Fantasy",
+    "description": "A death row guard encounters a man with a mysterious gift.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Green_Mile_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Green_Mile_(film)"
+  },
+  {
+    "id": 31,
+    "title": "The Social Network",
+    "subtitle": "2010 • Drama",
+    "description": "The founding story of Facebook.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Social_Network_film_poster.png",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Social_Network"
+  },
+  {
+    "id": 32,
+    "title": "Mad Max: Fury Road",
+    "subtitle": "2015 • Action/Adventure",
+    "description": "A high-octane chase across a post-apocalyptic wasteland.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road"
+  },
+  {
+    "id": 33,
+    "title": "Logan",
+    "subtitle": "2017 • Action/Drama",
+    "description": "An aging Wolverine protects a young mutant.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Logan_(film)"
+  },
+  {
+    "id": 34,
+    "title": "Batman Begins",
+    "subtitle": "2005 • Action/Drama",
+    "description": "The origin story of the Dark Knight.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Batman_Begins_Poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Batman_Begins"
+  },
+  {
+    "id": 35,
+    "title": "Doctor Strange",
+    "subtitle": "2016 • Action/Fantasy",
+    "description": "A surgeon discovers the world of mystic arts.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
+  },
+  {
+    "id": 36,
+    "title": "Black Panther",
+    "subtitle": "2018 • Action/Sci-Fi",
+    "description": "The king of Wakanda must defend his nation.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Black_Panther_film_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  },
+  {
+    "id": 37,
+    "title": "Iron Man",
+    "subtitle": "2008 • Action/Sci-Fi",
+    "description": "A billionaire builds a high-tech suit to fight evil.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
+  },
+  {
+    "id": 38,
+    "title": "Spider-Man: No Way Home",
+    "subtitle": "2021 • Action/Fantasy",
+    "description": "Spider-Man faces multiverse chaos.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+  },
+  {
+    "id": 39,
+    "title": "Shutter Island",
+    "subtitle": "2010 • Thriller/Mystery",
+    "description": "A U.S. Marshal investigates a psychiatric facility.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+  },
+  {
+    "id": 40,
+    "title": "The Departed",
+    "subtitle": "2006 • Crime/Drama",
+    "description": "An undercover cop and a mole try to uncover each other.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Departed"
+  },
+  {
+    "id": 41,
+    "title": "La La Land",
+    "subtitle": "2016 • Romance/Music",
+    "description": "A jazz musician and an aspiring actress fall in love.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/La_La_Land"
+  },
+  {
+    "id": 42,
+    "title": "The Truman Show",
+    "subtitle": "1998 • Comedy/Drama",
+    "description": "A man discovers his life is a reality TV show.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Trumanshow.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Truman_Show"
+  },
+  {
+    "id": 43,
+    "title": "Cast Away",
+    "subtitle": "2000 • Adventure/Drama",
+    "description": "A man struggles to survive on a deserted island.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Cast_away_film_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Cast_Away"
+  },
+  {
+    "id": 44,
+    "title": "A Beautiful Mind",
+    "subtitle": "2001 • Biography/Drama",
+    "description": "The life of a brilliant but troubled mathematician.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)"
+  },
+  {
+    "id": 45,
+    "title": "Slumdog Millionaire",
+    "subtitle": "2008 • Drama/Romance",
+    "description": "A young man competes on a game show.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Slumdog_Millionaire_poster.png",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Slumdog_Millionaire"
+  },
+  {
+    "id": 46,
+    "title": "Rocky",
+    "subtitle": "1976 • Sports/Drama",
+    "description": "A boxer gets a once-in-a-lifetime shot at glory.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Rocky_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Rocky"
+  },
+  {
+    "id": 47,
+    "title": "The Imitation Game",
+    "subtitle": "2014 • Biography/Drama",
+    "description": "Alan Turing cracks Nazi codes during WWII.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/The_Imitation_Game_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Imitation_Game"
+  },
+  {
+    "id": 48,
+    "title": "Deadpool",
+    "subtitle": "2016 • Action/Comedy",
+    "description": "A wisecracking mercenary seeks revenge.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Deadpool_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Deadpool_(film)"
+  },
+  {
+    "id": 49,
+    "title": "The Hangover",
+    "subtitle": "2009 • Comedy",
+    "description": "Three friends lose the groom during a wild night.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Hangoverposter09.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Hangover"
+  },
+  {
+    "id": 50,
+    "title": "Her",
+    "subtitle": "2013 • Romance/Sci-Fi",
+    "description": "A man falls in love with an AI operating system.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Her_(film)"
+  },
+  {
+    "id": 51,
+    "title": "1917",
+    "subtitle": "2019 • War/Drama",
+    "description": "Two soldiers race against time during World War I.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/1917_%282019%29_Film_Poster.jpeg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/1917_(2019_film)"
+  },
+  {
+    "id": 52,
+    "title": "Blade Runner 2049",
+    "subtitle": "2017 • Sci-Fi/Drama",
+    "description": "A new blade runner uncovers a long-buried secret.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Blade_Runner_2049_logo.png",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Blade_Runner_2049"
+  },
+  {
+    "id": 53,
+    "title": "The Revenant",
+    "subtitle": "2015 • Adventure/Drama",
+    "description": "A frontiersman survives brutal wilderness.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_Revenant_2015_film_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/The_Revenant_(2015_film)"
+  },
+  {
+    "id": 54,
+    "title": "Gravity",
+    "subtitle": "2013 • Sci-Fi/Thriller",
+    "description": "Astronauts struggle to survive in space.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Gravity_Poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Gravity_(2013_film)"
+  },
+  {
+    "id": 55,
+    "title": "Moonlight",
+    "subtitle": "2016 • Drama",
+    "description": "A young man grapples with identity and love.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/84/Moonlight_%282016_film%29.png",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Moonlight_(2016_film)"
+  },
+  {
+    "id": 56,
+    "title": "Toy Story",
+    "subtitle": "1995 • Animation/Comedy",
+    "description": "Toys come to life when humans are not around.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Toy_Story"
+  },
+  {
+    "id": 57,
+    "title": "Up",
+    "subtitle": "2009 • Animation/Adventure",
+    "description": "An old man flies his house to South America.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Up_(2009_film)"
+  },
+  {
+    "id": 58,
+    "title": "Coco",
+    "subtitle": "2017 • Animation/Music",
+    "description": "A boy journeys into the Land of the Dead.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Coco_(2017_film)"
+  },
+  {
+    "id": 59,
+    "title": "Oppenheimer",
+    "subtitle": "2023 • Biography/Drama",
+    "description": "The story of the father of the atomic bomb.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Oppenheimer_(film)"
+  },
+  {
+    "id": 60,
+    "title": "Top Gun: Maverick",
+    "subtitle": "2022 • Action/Drama",
+    "description": "After thirty years, Maverick is still pushing the limits as a Navy pilot.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
+    "buttonText": "Learn More",
+    "readMore": "https://en.wikipedia.org/wiki/Top_Gun:_Maverick"
+  }
+]
