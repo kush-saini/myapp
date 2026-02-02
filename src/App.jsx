@@ -15,6 +15,8 @@ import InRadio from "./InRadio.jsx";
 import SimplVal from "./simplVal.jsx";
 import Search from "./Search.jsx";
 import MyForm from "./MyForm.jsx";
+import MyForm2 from "./MyForm2.jsx";
+import MyForm3 from "./MyForm3.jsx";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -99,7 +101,7 @@ function App() {
           path="/form"
           element={
             <Layout>
-              <MyForm />
+              <MyForm3 />
             </Layout>
           }
         />
