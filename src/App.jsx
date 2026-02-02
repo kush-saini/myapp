@@ -17,6 +17,7 @@ import Search from "./Search.jsx";
 import MyForm from "./MyForm.jsx";
 import MyForm2 from "./MyForm2.jsx";
 import MyForm3 from "./MyForm3.jsx";
+import MyFormSimple from "./MyFormSimple.jsx";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -102,6 +103,14 @@ function App() {
           element={
             <Layout>
               <MyForm3 />
+            </Layout>
+          }
+        />
+        <Route
+          path="/myform"
+          element={
+            <Layout>
+              <MyFormSimple />
             </Layout>
           }
         />
