@@ -19,6 +19,8 @@ import MyForm2 from "./MyForm2.jsx";
 import MyForm3 from "./MyForm3.jsx";
 import MyFormSimple from "./MyFormSimple.jsx";
 import AdvanceFormVal from "./AdvanceFormVal.jsx";
+import AdvFormVal2 from "./AdvFormVal2.jsx";
+import RegistrationForm from "./RegistrationForm.jsx";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -119,19 +121,20 @@ function App() {
           path="/afv"
           element={
             <Layout>
-              <AdvanceFormVal />
+              <AdvFormVal2 />
+            </Layout>
+          }
+        />
+        <Route
+          path="/reg"
+          element={
+            <Layout>
+              <RegistrationForm />
             </Layout>
           }
         />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
-      {/* 
-      <Carousell/>
-      <Cards/>
-      <Services/>
-      <AboutUs/>
-      <Team/>
-       */}
     </>
   );
 }
