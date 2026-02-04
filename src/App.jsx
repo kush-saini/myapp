@@ -18,6 +18,7 @@ import MyForm from "./MyForm.jsx";
 import MyForm2 from "./MyForm2.jsx";
 import MyForm3 from "./MyForm3.jsx";
 import MyFormSimple from "./MyFormSimple.jsx";
+import AdvanceFormVal from "./AdvanceFormVal.jsx";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -111,6 +112,14 @@ function App() {
           element={
             <Layout>
               <MyFormSimple />
+            </Layout>
+          }
+        />
+        <Route
+          path="/afv"
+          element={
+            <Layout>
+              <AdvanceFormVal />
             </Layout>
           }
         />
