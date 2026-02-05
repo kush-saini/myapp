@@ -92,7 +92,6 @@ const RegistrationForm = () => {
 
     return age;
   }
-  console.log("age =>=> ", age);
   const handleSubmit = () => {
     let isValid = true;
 
