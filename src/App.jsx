@@ -21,6 +21,7 @@ import MyFormSimple from "./MyFormSimple.jsx";
 import AdvanceFormVal from "./AdvanceFormVal.jsx";
 import AdvFormVal2 from "./AdvFormVal2.jsx";
 import RegistrationForm from "./RegistrationForm.jsx";
+import Notes from "./Notes.jsx";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -130,6 +131,14 @@ function App() {
           element={
             <Layout>
               <RegistrationForm />
+            </Layout>
+          }
+        />
+        <Route
+          path="/notes"
+          element={
+            <Layout>
+              <Notes />
             </Layout>
           }
         />

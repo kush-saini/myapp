@@ -5,7 +5,7 @@ import Footer from "./Footer";
 
 const Layout = ({ children }) => {
   return (
-    <div>
+    <div style={{marginTop:"90px"}}>
       <Header />
       {children ? children : <Carousell />}
       <Footer />
